@@ -14,7 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=ankit2341&style=flat-square&color=blue" alt=""/>
 </div> -->
 
-### Hi, I'm Ankit 👋
+### Hi, I'm Vicky 👋
 
 <div align="center" style="margin:30px;">
 <img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="400" height="300"/>
@@ -68,23 +68,23 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 
 <div align="center" style="margin:30px;">
-<img src="https://github-profile-trophy.vercel.app/?username=ankit2341&theme=onedark&background=000000"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vicky-ops&theme=onedark&background=000000"/>
 </div> 
 <br/>
 <hr/>
 <br/>
 <div align="center" display="flex" style="justify-content:space-evenly;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit2341&show_icons=true&theme=dark&background=000000"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit2341&theme=dark&background=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vicky-ops&show_icons=true&theme=dark&background=000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-ops&theme=dark&background=000000"/>
 </div> 
 <br/>
 <hr/>
 <br/>
 <div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ankit2341&theme=dark"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=vicky-ops&theme=dark"/>
 </div>   
 <!--
-**ankit2341/ankit2341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vicky-ops/vicky-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
