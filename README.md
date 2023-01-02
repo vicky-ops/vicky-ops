@@ -22,8 +22,9 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - 📫:How to reach me: <a href="https://www.linkedin.com/in/vicky-d-943537224/" target="_blank">LinkedIn
   </a>
-- ![image](https://user-images.githubusercontent.com/80167039/210254297-38943d1e-e327-4fcf-9e1c-b33c287fdb59.png)
-:How to Mail me: workmailvicky101@gmail.com
+- 📧: Mail me at: workmailvicky101@gmail.com
+-  :hurtrealbad:: Have a look a my <a href="https://www.linkedin.com/in/vicky-d-943537224/](https://drive.google.com/file/d/1rn6BuKRsueZLcQKlJqxnkV3ZqblUKMZb/view?usp=share_link" target="_blank">Resume
+  </a>
 
 <br/>
 <hr/>
