@@ -70,7 +70,11 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <br/>
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=vicky-ops&theme=dark"/>
-</div>   
+</div>
+<div>
+ [![](https://visitcount.itsvg.in/api?id=vicky-ops&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+ </div>
+
 <!--
 **vicky-ops/vicky-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
