@@ -12,9 +12,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a SDET <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m studying Full stack web devlopment at Masai School and contributing to frontend and backend for building web applications.
+- :telescope: I've studied Full stack web devlopment at Masai School and Software Testing.
 
 - :telescope: <a href="https://vicky-ops.github.io" target="_blank">Portfolio</a>
 
@@ -23,9 +23,8 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - 📫:How to reach me: <a href="https://www.linkedin.com/in/vicky-d-943537224/" target="_blank">LinkedIn
   </a>
 - 📧: Mail me at: workmailvicky101@gmail.com
--  :hurtrealbad:: Have a look a my <a href="https://drive.google.com/file/d/1rn6BuKRsueZLcQKlJqxnkV3ZqblUKMZb/view?usp=share_link" target="_blank">Resume
+-  :hurtrealbad:: Have a look a my <a href="https://drive.google.com/file/d/1QpvZOlIJHevEpQ9uWev4Cvl5GIeteNow/view?usp=share_link" target="_blank">Resume
   </a>
-
 <br/>
 <hr/>
 
